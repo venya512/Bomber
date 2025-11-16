@@ -5,8 +5,7 @@ import hashlib
 import sys
 import time
 import threading
-import string
-import random
+import string, random
 import base64
 import urllib.request
 import urllib.parse
